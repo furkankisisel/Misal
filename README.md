@@ -244,4 +244,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 **Your Name**
 - LinkedIn: [linkedin.com/in/furkan-çalık](https://linkedin.com/in/furkan-çalık)
 - GitHub: [@furkankisisel](https://github.com/furkankisisel)
-- Email: furkancalk325@gmail.com
+- Email: corporate.furkan@gmail.com
